@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Comparación importantes métricas entre países europeos"
+  navbar:
+    right:
+      - about.qmd
+      - icon: instagram
+        href: https://www.instagram.com/juandavidr1501/?hl=bn
+format:
+  html:
+    theme: yeti
+    css: styles.css
+
+editor: visual
+

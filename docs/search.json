@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "posts/trabajo/index.html",
+    "href": "posts/trabajo/index.html",
+    "title": "Evolución métricas importantes en Union Europea",
+    "section": "",
+    "text": "Repo utilizado para elaborar el trabajo en equipo para la asignatura “Programación y manejo de datos en la era del Big Data” de la Universitat de València durante el curso 2022-2023. La página web de la asignatura puede verse: aqui"
+  },
+  {
+    "objectID": "posts/trabajo/index.html#introducción",
+    "href": "posts/trabajo/index.html#introducción",
+    "title": "Evolución métricas importantes en Union Europea",
+    "section": "1 Introducción",
+    "text": "1 Introducción\nHoy en día estamos todos cansados de escuchar lo mal que va todo, quise hacer este trabajo inicialmente sobre métricas globales, incluyendo países de los 5 continentes, pero encontrar datos adecuados presentó demasiados problemas y EUROSTAT con get_eurostat() resultó ser demasiado conveniente.\nAunque get_eurostat no está sin sus fallos (muchos datasets encontrados en eurostat web no son compatibles con la funciión por alguna razón). Conseguí varios datos interesantes que se prestan para ser analizados y ver qué tan mal/bien le va a Europa en algunas métricas que me parecieron interesantes."
+  },
+  {
+    "objectID": "posts/trabajo/index.html#datos",
+    "href": "posts/trabajo/index.html#datos",
+    "title": "Evolución métricas importantes en Union Europea",
+    "section": "2 Datos",
+    "text": "2 Datos\nPara el trabajo de investigacion el paquete Eurostat resultó increiblemente útil con ello conseguí la mayoría de los datos utilizados.\nLos datos consegyuidos fuera de eurostat fueron aquellos relacionados a los cambios en temperatura, estos los conseguí en Climate Change Dashboard y los datos referentes al Human Devlopment Index, estos los conseguí en la página del United Natios Development Programme"
+  },
+  {
+    "objectID": "posts/trabajo/index.html#paises-a-estudiar",
+    "href": "posts/trabajo/index.html#paises-a-estudiar",
+    "title": "Evolución métricas importantes en Union Europea",
+    "section": "3 Paises a Estudiar",
+    "text": "3 Paises a Estudiar"
+  },
+  {
+    "objectID": "posts/trabajo/index.html#evolucion-en-grados-celsius-promedio-por-año-con-respecto-a-una-climatología-de-referencia-correspondiente-al-período-1951-1980",
+    "href": "posts/trabajo/index.html#evolucion-en-grados-celsius-promedio-por-año-con-respecto-a-una-climatología-de-referencia-correspondiente-al-período-1951-1980",
+    "title": "Evolución métricas importantes en Union Europea",
+    "section": "4 Evolucion en grados celsius promedio por año con respecto a una climatología de referencia, correspondiente al período 1951-1980",
+    "text": "4 Evolucion en grados celsius promedio por año con respecto a una climatología de referencia, correspondiente al período 1951-1980\n\nSólo en paises estudiadosToda la union europea\n\n\n\n\n\n\n\nNo es posible apreciar de manera muy clara una diferencia entre la evolución en las variaciones de temperatura entre los países más ricos y aquellos más pobres de la UE. Sin embargo nuestros primeros datos sí se ven algo trágicos pues apreciamos claramente cómo el clima se ha puesto más y más caliente\n\n\n\n\n\n\n\n\n\n\n\n\n\nLos primeros dos gráficos son imposibles de decifrar y en el resto del blog no se usarán más gráficos con cada país individual, en el tercer gráfico vemos lo mismo que vimos en las economías más y las menos ricas. Una Europa cada año más caliente."
+  },
+  {
+    "objectID": "posts/trabajo/index.html#evolución-de-la-brecha-salarial-como-porcentaje",
+    "href": "posts/trabajo/index.html#evolución-de-la-brecha-salarial-como-porcentaje",
+    "title": "Evolución métricas importantes en Union Europea",
+    "section": "5 Evolución de la brecha salarial como porcentaje",
+    "text": "5 Evolución de la brecha salarial como porcentaje\n\nSólo en paises estudiadosToda la union europeaBrecha salarial en nuestros 5 países más pobres y 5 más ricos\n\n\n\n\n\n\n\nClaramente podemos ver, un problema que empezó peor en los países más ricos, ha bajado cada vez más y hoy se ve como un problema mucho menor que hace tan sólo 15 años.\n\n\n\n\n\n\n\nParece que son los países más pobres los que historicamente menor brecha salarial han tenido, siendo aquellos intermedios aquellos con mayor problema, la brecha se ha visto reducida en toda la Unión Europea, pero queda mucho trabajo por hacer, especialmente en los países intermedios.\n\n\n\n\n\n\n\nComo vimos en la gráfica anterior, en los países estudiados podemos ver una brecha salarial que oscila al rededor de poco menos del 10%. Irlanda no aparece porque tiene NA en los años 2019 y 2020."
+  },
+  {
+    "objectID": "posts/trabajo/index.html#evolución-en-cantidad-de-emisiones-en-co2-equivalente",
+    "href": "posts/trabajo/index.html#evolución-en-cantidad-de-emisiones-en-co2-equivalente",
+    "title": "Evolución métricas importantes en Union Europea",
+    "section": "6 Evolución en cantidad de emisiones en CO2 equivalente",
+    "text": "6 Evolución en cantidad de emisiones en CO2 equivalente\n\nSólo en paises estudiadosToda la union europea\n\n\n\n\n\n\n\nParece que en esta ocasión los países más ricos vienen a traer algo de felicidad y es que vemos que desde poco antes de la crisis financiera sus emisiones de CO2 per capita se desplomaron y se quedaron abajo. Los países más pobres parecen nunca haber incurrido en emisiones muy altas por lo que no han cambiado mucho desde 1995\n\n\n\n\n\n\n\nExtraño es ver que al mismo tiempo que las emisiones epr capita de los paises más ricos tiraron para abajo, el resto de Europa incrementó un poco sus emisiones."
+  },
+  {
+    "objectID": "posts/trabajo/index.html#evolución-de-human-development-index-correspondiente",
+    "href": "posts/trabajo/index.html#evolución-de-human-development-index-correspondiente",
+    "title": "Evolución métricas importantes en Union Europea",
+    "section": "7 Evolución de Human Development Index correspondiente",
+    "text": "7 Evolución de Human Development Index correspondiente\n\nSólo en paises estudiadosToda la union europea\n\n\n\n\n\n\n\nResultados de esperarse, los países más ricos viven mejor, lo extraño es que parecen crecer a la misma velocidad sin ninguna señal de convergencia en el futuro\n\n\n\n\n\n\n\nEl mismo resultado! El resto de los países se encuentran justo en el medio de los más pobre y los más ricos en el Indice del Desarrollo Humano, tampoco parece que pornto lleguen a convergencia con sus contrapartes más afortunadas."
+  },
+  {
+    "objectID": "posts/trabajo/index.html#evolución-de-cuota-de-electricidad-proveniente-de-fuentes-renovables",
+    "href": "posts/trabajo/index.html#evolución-de-cuota-de-electricidad-proveniente-de-fuentes-renovables",
+    "title": "Evolución métricas importantes en Union Europea",
+    "section": "8 Evolución de cuota de electricidad proveniente de fuentes renovables",
+    "text": "8 Evolución de cuota de electricidad proveniente de fuentes renovables\n\nSólo en paises estudiados\n\n\n\n\n\n\n\n\n\n\nEsta es justamente la gráfica que más prometedora se veía, al momento de buscar los datos el get_eurostat() funcionaba con el código de este dataset. Por alguna razón dejó de aceptarlo y nunca lo guardé en local. Pero creo recordarlo como una tendencia positiva hacia las energías renovables en toda la UE."
+  },
+  {
+    "objectID": "posts/trabajo/index.html#conclusión",
+    "href": "posts/trabajo/index.html#conclusión",
+    "title": "Evolución métricas importantes en Union Europea",
+    "section": "9 Conclusión",
+    "text": "9 Conclusión\nEscribir una conclusión"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Comparación importantes métricas entre países europeos",
+    "section": "",
+    "text": "El blog se presenta como trabajo individual de evaluación continua para la materia “Programación y manejo de datos en la era Del Big Data”, optativa de GECO en la Facultad de Economía de la Universitat de València.\nLa web de la asignatura está aquí y los trabajos de mis compañeros de curso puedes verlos aquí.\nEl trabajo se enfoca en comparar métricas que a mí me parecieron interesantes de los top 5 y bottom 5 paises por PIB per capita en la Unión Europea\nEl trabajo puede verse aquí.\n\n\n\n\n\n\n\n\n  \n\n\n\n\nEvolución métricas importantes en Union Europea\n\n\n\n\n\n\n\n\n\n\n\n\nJan 5, 2023\n\n\nJuan David Ríos\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Hola",
+    "section": "",
+    "text": "El propósito de este blog es para la presentación del trabajo individual para la asignatura “Programación y manejo de datos en la era del Big Data” de la Universitat de València durante el curso 2022-2023. La página web de la asignatura puede verse:aqui"
+  }
+]
